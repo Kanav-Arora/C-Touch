@@ -1,5 +1,8 @@
 # include<stdio.h>
 
+
+// Do while is an exit controlled loop which means that it while execute atleast once
+
 int main()
 {
     int i=0;
