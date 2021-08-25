@@ -9,3 +9,7 @@ Index:
 - [Format Specifiers](https://github.com/Kanav-Arora/C-Touch/blob/main/format_specifier.c)
 - [If Else](https://github.com/Kanav-Arora/C-Touch/blob/main/if_else.c)
 - [Switch](https://github.com/Kanav-Arora/C-Touch/blob/main/switch.c)
+- [For Loop](https://github.com/Kanav-Arora/C-Touch/blob/main/for.c)
+- [While Loop](https://github.com/Kanav-Arora/C-Touch/blob/main/while.c)
+- [Do While Loop](https://github.com/Kanav-Arora/C-Touch/blob/main/do_while.c)
+- [Typecasting](https://github.com/Kanav-Arora/C-Touch/blob/main/typecasting.c)
