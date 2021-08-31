@@ -18,3 +18,5 @@ Index:
 - [Arrays](https://github.com/Kanav-Arora/C-Touch/blob/main/array.c)
 - [Pointers](https://github.com/Kanav-Arora/C-Touch/blob/main/pointers.c)
 - [Pointers Arithmetic](https://github.com/Kanav-Arora/C-Touch/blob/main/pointer_arithmetic.c)
+- [Call By Value](https://github.com/Kanav-Arora/C-Touch/blob/main/call_by_value.c)
+- [Call By Function](https://github.com/Kanav-Arora/C-Touch/blob/main/call_by_reference.c)
