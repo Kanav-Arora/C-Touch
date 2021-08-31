@@ -13,3 +13,8 @@ Index:
 - [While Loop](https://github.com/Kanav-Arora/C-Touch/blob/main/while.c)
 - [Do While Loop](https://github.com/Kanav-Arora/C-Touch/blob/main/do_while.c)
 - [Typecasting](https://github.com/Kanav-Arora/C-Touch/blob/main/typecasting.c)
+- [Functions](https://github.com/Kanav-Arora/C-Touch/blob/main/functions.c)
+- [Factorial Recursion](https://github.com/Kanav-Arora/C-Touch/blob/main/factorial(recursion).c)
+- [Arrays](https://github.com/Kanav-Arora/C-Touch/blob/main/array.c)
+- [Pointers](https://github.com/Kanav-Arora/C-Touch/blob/main/pointers.c)
+- [Pointers Arithmetic](https://github.com/Kanav-Arora/C-Touch/blob/main/pointer_arithmetic.c)
