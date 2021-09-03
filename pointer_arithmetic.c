@@ -15,13 +15,13 @@ int main()
         and this size depends on the architecture. In my case it is 4 bytes.
     */
 
-    int arr[] = {1};
+    int arr[] = {1,0};
     int* ptrarr = arr;
     printf("The address of arr[0] is %d\n",&arr[0]);
     printf("The address of arr[0] is %d\n",arr);
     printf("The address of ptrarr is %d\n",ptrarr);
-    printf("The address of arr[0] is %d\n",&arr[1]);
-    printf("The address of arr[0] is %d\n",arr+1);
+    printf("The address of arr[1] is %d\n",&arr[1]);
+    printf("The address of arr[1] is %d\n",arr+1);
     /*
         Similarly in arrays,
         arr==arr[0]; arr[i]==arr[0]+i;
