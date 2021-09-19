@@ -2,6 +2,8 @@
 
 [![Hits-of-Code](https://hitsofcode.com/github/kanav-arora/c-touch?branch=main)](https://hitsofcode.com/github/kanav-arora/c-touch/view?branch=main)
 
+[![wakatime](https://wakatime.com/badge/github/Kanav-Arora/C-Touch.svg)](https://wakatime.com/badge/github/Kanav-Arora/C-Touch)
+
 Access all C language codes with a single touch.
 
 Index:
@@ -22,10 +24,11 @@ Index:
 - [Call By Function](https://github.com/Kanav-Arora/C-Touch/blob/main/call_by_reference.c)
 - [Array As Function](https://github.com/Kanav-Arora/C-Touch/blob/main/array_as_function.c)
 - [Array Reversal](https://github.com/Kanav-Arora/C-Touch/blob/main/arrayrev.c)
-- [Memory Allocation - Stack](https://github.com/Kanav-Arora/C-Touch/blob/main/memory_allocation(stack).c)
 - [String](https://github.com/Kanav-Arora/C-Touch/blob/main/string.c)
 - [String Functions](https://github.com/Kanav-Arora/C-Touch/blob/main/string_func.c)
 - [Structures](https://github.com/Kanav-Arora/C-Touch/blob/main/structure.c)
+- [Unions](https://github.com/Kanav-Arora/C-Touch/blob/main/unions.c)
 - [Typedef-1](https://github.com/Kanav-Arora/C-Touch/blob/main/typedef1.c)
 - [Typedef-2](https://github.com/Kanav-Arora/C-Touch/blob/main/typedef2.c)
-- [Unions](https://github.com/Kanav-Arora/C-Touch/blob/main/unions.c)
+- [Memory Allocation - Stack](https://github.com/Kanav-Arora/C-Touch/blob/main/memory_allocation(stack).c)
+- [Memory Allocation - Heap](https://github.com/Kanav-Arora/C-Touch/blob/main/memory_allocation(heap).c)

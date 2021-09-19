@@ -30,15 +30,19 @@
                             ptr = (ptr-type*) realloc(ptr,new_size_in_bytes);
 
     - Free
+        Is used to free memory
 
+        Syntax:
+                            free(ptr);
 
 */
 
 
 # include<stdio.h>
-
+# include<stdlib.h>
 int main()
 {
-    
+    int* ptr;
+    ptr = (int*) malloc(10*sizeof(int));
     return 0;
 }
